@@ -15,12 +15,12 @@ Changes:
 Checksums-Sha1:
  9f9afe42cde5ab2a7c09f031f66a869c5732831e 1306 mc_4.8.24-100.dsc
  f370bae6226398ebcba442e050a27fc49e9835ef 50048 mc_4.8.24-100.debian.tar.xz
- 0009add39afa5214d652d9b672272f13ffa499a3 4404 mc_4.8.24-100_source.buildinfo
+ 0c01c64269078f78fc71c7f8df3fe4a154bd3510 4404 mc_4.8.24-100_source.buildinfo
 Checksums-Sha256:
  4b6b30e4473039e7e7d83b828d076d116b02063f4bc3e72d7694045a2d308188 1306 mc_4.8.24-100.dsc
  bea678323fc3a480a861c0cce363fe00caf1cec674ecfd68fd0ceff22abc3101 50048 mc_4.8.24-100.debian.tar.xz
- af628b88e60821ba1f47603676af131c07c1865f1f15be2460de5c6af9bd3ba8 4404 mc_4.8.24-100_source.buildinfo
+ 5fc2def8bdc7ce5d3843515335f88497cbc6ee6695cadbc0d787eddb318a02dc 4404 mc_4.8.24-100_source.buildinfo
 Files:
  572841abdfda8909ee4b4d9918d1434d 1306 utils optional mc_4.8.24-100.dsc
  03c7e11fb1682f680a34cdd33844a3a6 50048 utils optional mc_4.8.24-100.debian.tar.xz
- 3d3f5050a6227f37901e68e4b4ed048f 4404 utils optional mc_4.8.24-100_source.buildinfo
+ 74c4dd5d218ddc4fce7a7d3ab6cee90e 4404 utils optional mc_4.8.24-100_source.buildinfo
