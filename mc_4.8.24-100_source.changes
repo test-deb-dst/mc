@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 27 Feb 2020 12:00:00 +0300
+Source: mc
+Architecture: source
+Version: 3:4.8.24-100
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <pkgstore@pm.me>
+Changed-By: Package Store <pkgstore@pm.me>
+Changes:
+ mc (3:4.8.24-100) unstable; urgency=medium
+ .
+   * UPD: Package Store.
+   * UPD: Debian scripts.
+Checksums-Sha1:
+ 9f9afe42cde5ab2a7c09f031f66a869c5732831e 1306 mc_4.8.24-100.dsc
+ f370bae6226398ebcba442e050a27fc49e9835ef 50048 mc_4.8.24-100.debian.tar.xz
+ 33c39ec73e9c1db2f1bdec8e5f78eebf371baf13 4404 mc_4.8.24-100_source.buildinfo
+Checksums-Sha256:
+ 4b6b30e4473039e7e7d83b828d076d116b02063f4bc3e72d7694045a2d308188 1306 mc_4.8.24-100.dsc
+ bea678323fc3a480a861c0cce363fe00caf1cec674ecfd68fd0ceff22abc3101 50048 mc_4.8.24-100.debian.tar.xz
+ 310a79d4ef349b65c0457a49b62f7089095254a29519eaa740826af2b7d39245 4404 mc_4.8.24-100_source.buildinfo
+Files:
+ 572841abdfda8909ee4b4d9918d1434d 1306 utils optional mc_4.8.24-100.dsc
+ 03c7e11fb1682f680a34cdd33844a3a6 50048 utils optional mc_4.8.24-100.debian.tar.xz
+ c493e387e0a83ff15618d4f3cdaf4587 4404 utils optional mc_4.8.24-100_source.buildinfo
